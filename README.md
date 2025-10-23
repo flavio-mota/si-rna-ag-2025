@@ -57,6 +57,7 @@ cd si-rna-ag-2025
 
 - [Google Colab](https://colab.research.google.com/) - Ambiente de desenvolvimento principal
 - [Documentação do TensorFlow](https://www.tensorflow.org/)
+- [TensorFlow Playground](https://playground.tensorflow.org/)
 - [Scikit-learn](https://scikit-learn.org/) - Para algoritmos de machine learning
 - [Pandas](https://pandas.pydata.org/) - Para manipulação de dados
 - [Guia do Colab](https://colab.research.google.com/notebooks/intro.ipynb) - Tutorial oficial
