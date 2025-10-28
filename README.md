@@ -11,10 +11,12 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 
 ## 📁 Estrutura do Repositório
 
-### Aula 2 - MLP (Multi-Layer Perceptron)
-- **Localização**: `Aula 2 - MLP/`
+### MLP (Multi-Layer Perceptron)
+- **Localização**: `MLP/`
 - **Conteúdo**: Implementação de Redes Neurais Multi-Camadas usando TensorFlow
-- **Arquivo**: `Implementando_MLP_TensorFlow.ipynb`
+- **Arquivos**:
+  - `Implementando_MLP_TensorFlow.ipynb` - Implementação básica de MLP
+  - `MLP_Loss_Optimizers.ipynb` - Funções de custo e otimizadores
 
 ## 🚀 Como Usar
 
@@ -39,7 +41,8 @@ cd si-rna-ag-2025
 
 | Aula | Tópico | Status | Descrição |
 |------|--------|--------|-----------|
-| 2 | MLP | ✅ | Implementação de Multi-Layer Perceptron com TensorFlow |
+| 2 | MLP - Implementação | ✅ | Implementação de Multi-Layer Perceptron com TensorFlow |
+| 3 | MLP - Loss e Otimizadores | ✅ | Funções de custo e otimizadores para MLPs |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
