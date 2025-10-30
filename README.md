@@ -17,6 +17,7 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 - **Arquivos**:
   - `Implementando_MLP_TensorFlow.ipynb` - Implementação básica de MLP
   - `MLP_Loss_Optimizers.ipynb` - Funções de custo e otimizadores
+  - `Lista_Exercicios_MLP.ipynb` - Lista de exercícios
 
 ## 🚀 Como Usar
 
@@ -29,7 +30,7 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 ### Opção 2: Ambiente Local
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/si-rna-ag-2025.git
+git clone https://github.com/flavio-mota/si-rna-ag-2025.git
 cd si-rna-ag-2025
 ```
 
@@ -43,6 +44,7 @@ cd si-rna-ag-2025
 |------|--------|--------|-----------|
 | 2 | MLP - Implementação | ✅ | Implementação de Multi-Layer Perceptron com TensorFlow |
 | 3 | MLP - Loss e Otimizadores | ✅ | Funções de custo e otimizadores para MLPs |
+| 4 | MLP - Lista de exercícios | ✅ | Praticar a configuração de MLPs |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
