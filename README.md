@@ -5,7 +5,7 @@ Este repositório contém todos os códigos práticos e implementações da disc
 ## 📚 Sobre a Disciplina
 
 A disciplina aborda conceitos fundamentais e implementações práticas de:
-- **Redes Neurais Artificiais**: Perceptrons, MLPs, redes profundas
+- **Redes Neurais Artificiais**: Perceptrons, MLPs, redes profundas, Self-organizing Maps
 - **Algoritmos Genéticos**: Evolução, seleção, crossover, mutação
 - **Aplicações Práticas**: Problemas de otimização, classificação, regressão
 
@@ -18,6 +18,12 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
   - `Implementando_MLP_TensorFlow.ipynb` - Implementação básica de MLP
   - `MLP_Loss_Optimizers.ipynb` - Funções de custo e otimizadores
   - `Lista_Exercicios_MLP.ipynb` - Lista de exercícios
+
+### SOM (Self-Organizing Maps)
+- **Localização**: `SOM/`
+- **Conteúdo**: Implementação de Mapas Auto-Organizáveis (SOM)
+- **Arquivos**:
+  - `SOM.ipynb` - Implementação de Self-organizing Maps
 
 ## 🚀 Como Usar
 
@@ -45,6 +51,7 @@ cd si-rna-ag-2025
 | 2 | MLP - Implementação | ✅ | Implementação de Multi-Layer Perceptron com TensorFlow |
 | 3 | MLP - Loss e Otimizadores | ✅ | Funções de custo e otimizadores para MLPs |
 | 4 | MLP - Lista de exercícios | ✅ | Praticar a configuração de MLPs |
+| 5 | SOM - Self-Organizing Maps | ✅ | Implementação de Mapas Auto-Organizáveis |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
