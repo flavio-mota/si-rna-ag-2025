@@ -24,6 +24,7 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 - **Conteúdo**: Implementação de Mapas Auto-Organizáveis (SOM)
 - **Arquivos**:
   - `SOM.ipynb` - Implementação de Self-organizing Maps
+  - `SOM_exercicios_praticos.ipynb` - Lista de exercícios
 
 ## 🚀 Como Usar
 
@@ -52,6 +53,7 @@ cd si-rna-ag-2025
 | 3 | MLP - Loss e Otimizadores | ✅ | Funções de custo e otimizadores para MLPs |
 | 4 | MLP - Lista de exercícios | ✅ | Praticar a configuração de MLPs |
 | 5 | SOM - Self-Organizing Maps | ✅ | Implementação de Mapas Auto-Organizáveis |
+| 6 | SOM - Lista de exercícios | ✅ | Praticar e analisar o uso dos SOMs |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
