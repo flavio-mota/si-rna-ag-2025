@@ -5,9 +5,9 @@ Este repositório contém todos os códigos práticos e implementações da disc
 ## 📚 Sobre a Disciplina
 
 A disciplina aborda conceitos fundamentais e implementações práticas de:
-- **Redes Neurais Artificiais**: Perceptrons, MLPs, redes profundas, Self-organizing Maps
+- **Redes Neurais Artificiais**: Perceptrons, MLPs, redes profundas, Self-organizing Maps, CNNs
 - **Algoritmos Genéticos**: Evolução, seleção, crossover, mutação
-- **Aplicações Práticas**: Problemas de otimização, classificação, regressão
+- **Aplicações Práticas**: Problemas de otimização, classificação, regressão, visão computacional
 
 ## 📁 Estrutura do Repositório
 
@@ -25,6 +25,12 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 - **Arquivos**:
   - `SOM.ipynb` - Implementação de Self-organizing Maps
   - `SOM_exercicios_praticos.ipynb` - Lista de exercícios
+
+### CNN (Convolutional Neural Networks)
+- **Localização**: `CNN/`
+- **Conteúdo**: Implementação de Redes Neurais Convolucionais para visão computacional
+- **Arquivos**:
+  - `Aula_8_CNNs.ipynb` - Implementação de CNNs com Fashion-MNIST e modelos pré-treinados (ResNet50)
 
 ## 🚀 Como Usar
 
@@ -54,6 +60,7 @@ cd si-rna-ag-2025
 | 4 | MLP - Lista de exercícios | ✅ | Praticar a configuração de MLPs |
 | 5 | SOM - Self-Organizing Maps | ✅ | Implementação de Mapas Auto-Organizáveis |
 | 6 | SOM - Lista de exercícios | ✅ | Praticar e analisar o uso dos SOMs |
+| 8 | CNN - Convolutional Neural Networks | ✅ | Implementação de CNNs com Fashion-MNIST e uso de modelos pré-treinados (ResNet50) |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
