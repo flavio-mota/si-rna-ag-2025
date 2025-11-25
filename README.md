@@ -32,6 +32,14 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 - **Arquivos**:
   - `Aula_8_CNNs.ipynb` - Implementação de CNNs com Fashion-MNIST e modelos pré-treinados (ResNet50)
 
+### AG (Algoritmos Genéticos)
+- **Localização**: `AG/`
+- **Conteúdo**: Materiais práticos e teóricos — notebooks e PDFs — sobre fluxos evolutivos, operadores e aplicações em otimização.
+- **Arquivos**:
+  - `Aula_10_Implementando_um_AG.ipynb` - Implementação simples de um AG para resolver maximização de uma função
+
+> **Cada pasta de conteúdo traz o PDF complementar da aula correspondente**.
+
 ## 🚀 Como Usar
 
 ### Opção 1: Google Colab (Recomendado)
@@ -55,12 +63,16 @@ cd si-rna-ag-2025
 
 | Aula | Tópico | Status | Descrição |
 |------|--------|--------|-----------|
+| 1 | Introdução | ✅ | Introdução ao conceito de Redes Neurais Artificiais |
 | 2 | MLP - Implementação | ✅ | Implementação de Multi-Layer Perceptron com TensorFlow |
 | 3 | MLP - Loss e Otimizadores | ✅ | Funções de custo e otimizadores para MLPs |
 | 4 | MLP - Lista de exercícios | ✅ | Praticar a configuração de MLPs |
 | 5 | SOM - Self-Organizing Maps | ✅ | Implementação de Mapas Auto-Organizáveis |
 | 6 | SOM - Lista de exercícios | ✅ | Praticar e analisar o uso dos SOMs |
+| 7 | CNN - Introdução a CNN | ✅ | Introdução ao conceito de redes neurais convolucionais |
 | 8 | CNN - Convolutional Neural Networks | ✅ | Implementação de CNNs com Fashion-MNIST e uso de modelos pré-treinados (ResNet50) |
+| 9 | AG - Introdução a Algoritmos Genéticos | ✅ | Conceitos de evolução, seleção, crossover e mutação com notebooks e PDFs complementares |
+| 10 | AG - Implementação | ✅ | Implementação de um AG para resolver o problema de maximização de uma função multimodal |
 
 *Novas aulas serão adicionadas conforme o progresso da disciplina*
 
