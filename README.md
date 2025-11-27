@@ -37,6 +37,7 @@ A disciplina aborda conceitos fundamentais e implementações práticas de:
 - **Conteúdo**: Materiais práticos e teóricos — notebooks e PDFs — sobre fluxos evolutivos, operadores e aplicações em otimização.
 - **Arquivos**:
   - `Aula_10_Implementando_um_AG.ipynb` - Implementação simples de um AG para resolver maximização de uma função
+  - `AG_Labirinto` - Implementa um AG para resolver o problema de sair de um labirinto
 
 > **Cada pasta de conteúdo traz o PDF complementar da aula correspondente**.
 
@@ -73,8 +74,7 @@ cd si-rna-ag-2025
 | 8 | CNN - Convolutional Neural Networks | ✅ | Implementação de CNNs com Fashion-MNIST e uso de modelos pré-treinados (ResNet50) |
 | 9 | AG - Introdução a Algoritmos Genéticos | ✅ | Conceitos de evolução, seleção, crossover e mutação com notebooks e PDFs complementares |
 | 10 | AG - Implementação | ✅ | Implementação de um AG para resolver o problema de maximização de uma função multimodal |
-
-*Novas aulas serão adicionadas conforme o progresso da disciplina*
+| 11 | AG - Implementação | ✅ | Implementação de um AG para resolver o problema sair de um labirinto |
 
 ## 🛠️ Tecnologias Utilizadas
 
